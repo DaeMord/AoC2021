@@ -1,6 +1,5 @@
 #https://adventofcode.com/2021/day/2
 from AoC import inputData
-import itertools
 
 dataInput = inputData('data/day02.txt', t="rex", r="^([\w]+) (\d*)")
 #dataInput = inputData('data/test02.txt', t="rex", r="^([\w]+) (\d*)")
